@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mayra",
+      "lastname": "Cuasapaz",
+      "email": "mcuasapaz@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "promotor",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 2,
+      "name": "Cinthia",
+      "lastname": "Tello",
+      "email": "ctello@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "promotor",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 3,
+      "name": "Kevin",
+      "lastname": "Hernandez",
+      "email": "khernandez@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "promotor",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 4,
+      "name": "Juan",
+      "lastname": "Arellano",
+      "email": "jarellano@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "promotor",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 5,
+      "name": "Jimena",
+      "lastname": "Mejia",
+      "email": "jmejia@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "promotor",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 6,
+      "name": "Veronica",
+      "lastname": "Revelo",
+      "email": "zrevelo@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "tecnico",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 7,
+      "name": "Nancy",
+      "lastname": "Teran",
+      "email": "nteran@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "tecnico",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 8,
+      "name": "Darwin",
+      "lastname": "Melo",
+      "email": "dmelo@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "tecnico",
+      "created_at": "2025-01-31T22:52:59.783Z"
+    },
+    {
+      "id": 9,
+      "name": "Lucia",
+      "lastname": "Chulde",
+      "email": "nchulde@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "tecnico",
+      "created_at": "2025-01-31T22:52:59.784Z"
+    },
+    {
+      "id": 10,
+      "name": "Betty",
+      "lastname": "Leiton",
+      "email": "bleiton@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "coordinacion",
+      "created_at": "2025-01-31T22:52:59.784Z"
+    },
+    {
+      "id": 11,
+      "name": "Jenny",
+      "lastname": "Puentestar",
+      "email": "jpuentestar@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "presidencia",
+      "created_at": "2025-01-31T22:52:59.784Z"
+    },
+    {
+      "id": 12,
+      "name": "Martha",
+      "lastname": "Paspuel",
+      "email": "mpaspuel@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "administrador",
+      "created_at": "2025-01-31T22:52:59.784Z"
+    },
+    {
+      "id": 13,
+      "name": "Byron",
+      "lastname": "Calva",
+      "email": "bcalva@fedacc.org",
+      "password": "FEDACC2025@",
+      "role": "superusuario",
+      "created_at": "2025-01-31T22:52:59.784Z"
+    }
+  ],
+  "requisitions": [],
+  "providers": [],
+  "program_models": [],
+  "communities": [],
+  "account_codes": [],
+  "account_chart": [],
+  "audit_logs": [],
+  "company_settings": {
+    "ruc": "0491506385001",
+    "name": "Federación de Asociaciones Comunitarias del Carchi"
+  }
+}
